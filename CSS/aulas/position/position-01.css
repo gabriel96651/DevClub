@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    width: 200vw;
+    height: 200vh;
+    box-sizing: border-box;
+}
+
+#div-dad {
+    height: 350px;
+    width: 350px;
+    background-color: aqua;
+}
+
+#div-son {
+    width: 150px;
+    height: 150px;
+    background-color: fuchsia;
+}
+
+div#tananan {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}

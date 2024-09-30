@@ -1,0 +1,8 @@
+Um pseudo-elemento em CSS é utilizado para estilizar partes específicas de um elemento que não podem ser diretamente acessadas com seletores normais. Ele permite, por exemplo, adicionar conteúdo ou alterar a aparência de uma porção de um elemento sem precisar alterar o HTML. Os pseudo-elementos mais comuns são:
+
+    ::before: adiciona conteúdo antes do conteúdo de um elemento.
+    ::after: adiciona conteúdo depois do conteúdo de um elemento.
+    ::first-letter: estiliza a primeira letra de um texto.
+    ::first-line: estiliza a primeira linha de um texto.
+    
+Eles são precedidos por dois-pontos duplos (::), como em ::before ou ::after, e ajudam a melhorar o design e a apresentação de páginas web.
